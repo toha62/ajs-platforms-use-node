@@ -1,0 +1,23 @@
+{
+  "name": "ajs-platforms-use-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toha62/ajs-platforms-use-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toha62/ajs-platforms-use-node/issues"
+  },
+  "homepage": "https://github.com/toha62/ajs-platforms-use-node#readme",
+  "dependencies": {
+    "@toha62/ajs-platforms": "^1.0.1"
+  }
+}
