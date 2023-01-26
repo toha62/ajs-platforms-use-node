@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/toha62/ajs-platforms-use-node#readme",
   "dependencies": {
-    "@toha62/ajs-platforms": "^1.0.1"
+    "@toha62/ajspackage": "^1.0.0"
   }
 }
